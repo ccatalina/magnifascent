@@ -106,7 +106,8 @@ body,
 #site-slogan,
 .ui-widget,
 .comment-form label {
-  font-family: Georgia, "Times New Roman", Times, serif;
+/* font-family: Georgia, "Times New Roman", Times, serif;*/
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 #header,
 #footer-wrapper,
@@ -121,13 +122,13 @@ div.meta,
 p.comment-time,
 table,
 .breadcrumb {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+ font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 input,
 textarea,
 select,
 a.button {
-  font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
+ font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
 }
 
 /* ------------------ Reset Styles ------------------ */
@@ -570,7 +571,7 @@ h1#site-name {
   margin-top: 10px;
 }
 h1#page-title {
-  font-size: 2em;
+  font-size: 2.5em;
   line-height: 1;
 }
 #content h2 {
