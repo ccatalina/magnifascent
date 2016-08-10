@@ -59,7 +59,7 @@ body.maintenance-page {
   margin-top: 30px;
 }
 .maintenance-page #messages div.messages {
-  margin: 0;
+  margin: 0.5;
 }
 .maintenance-page #messages div.section {
   padding: 0;
